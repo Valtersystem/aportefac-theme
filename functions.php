@@ -34,4 +34,10 @@ function tailpress(): TailPress\Framework\Theme
         ]));
 }
 
+function aportefac_enqueue_google_fonts() {
+    wp_enqueue_style( 'google-fonts', 'https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap', array(), null );
+}
+add_action( 'wp_enqueue_scripts', 'aportefac_enqueue_google_fonts' );
+
+
 tailpress();

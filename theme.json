@@ -9,6 +9,31 @@
     "color": {
       "palette": [
         {
+          "name": "Fundo",
+          "slug": "background",
+          "color": "#0D0D0D"
+        },
+        {
+          "name": "Primária",
+          "slug": "primary",
+          "color": "#2EE59D"
+        },
+        {
+          "name": "Cartão",
+          "slug": "card",
+          "color": "#1A1A1A"
+        },
+        {
+          "name": "Texto Claro",
+          "slug": "text-light",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "Texto Médio",
+          "slug": "text-medium",
+          "color": "#A9A9A9"
+        },
+        {
           "name": "Primary",
           "slug": "primary",
           "color": "#2C7FFF"
@@ -96,6 +121,16 @@
           "name": "9XL",
           "slug": "9xl",
           "size": "8rem"
+        },
+        {
+          "name": "Base",
+          "slug": "base",
+          "size": "1rem"
+        },
+        {
+          "name": "Large",
+          "slug": "lg",
+          "size": "1.125rem"
         }
       ]
     }

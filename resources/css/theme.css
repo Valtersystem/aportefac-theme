@@ -25,3 +25,10 @@
     --text-8xl: var(--wp--preset--font-size--8-xl, 6rem);
     --text-9xl: var(--wp--preset--font-size--9-xl, 8rem);
 }
+
+
+body {
+    font-family: 'Manrope', sans-serif; 
+    background-color: var(--wp--preset--color--background); 
+    color: var(--wp--preset--color--text-light); 
+}

@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => {
         server: {
             port: 3000,
             cors: true,
-            origin: 'http://tailpress.test',
+            origin: 'http://localhost/wordpress/',
         },
         build: {
             manifest: true,
