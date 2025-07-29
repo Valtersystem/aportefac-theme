@@ -1,3 +1,9 @@
+#primary-navigation a,
+#mobile-menu-container a,
+#colophon a {
+  text-decoration: none;
+}
+
 .entry-content,
 .block-editor-block-list__layout {
   color: var(--color-zinc-950);
@@ -81,5 +87,3 @@
     margin-bottom: 0 !important;
   }
 }
-
-
