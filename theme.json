@@ -11,12 +11,12 @@
         {
           "name": "Fundo",
           "slug": "background",
-          "color": "#0D0D0D"
+          "color": "#000"
         },
         {
           "name": "Primária",
           "slug": "primary",
-          "color": "#2EE59D"
+          "color": "#599188"
         },
         {
           "name": "Cartão",
@@ -34,11 +34,6 @@
           "color": "#A9A9A9"
         },
         {
-          "name": "Primary",
-          "slug": "primary",
-          "color": "#2C7FFF"
-        },
-        {
           "name": "Secondary",
           "slug": "secondary",
           "color": "#FD9A00"
@@ -51,7 +46,7 @@
         {
           "name": "Light",
           "slug": "light",
-          "color": "#F4F4F5"
+          "color": "#DEDEE0"
         }
       ]
     },
